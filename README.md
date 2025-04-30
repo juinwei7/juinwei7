@@ -4,19 +4,17 @@
 <img align='right' src='https://weiwei.huanlan.org/de.png' width='200'>
 
   
-嗨，我是 weiwei！😃
+Hi, I’m Weiwei from Taiwan! 🇹🇼
+I’m a passionate software developer who enjoys building Java plugins and web applications.
 
-來自 Taiwan 台灣，  
-是一名熱情的 **軟體開發工程師**，擅長構建 Java Plugin 和 Web。    
-
-💻 目前專注於學習 **Spring Boot**、**Vue.js** 和 **GCP**。  
-🌱 我熱衷於探索和學習新事物，學習新技術並解決複雜問題！  
+💻 Currently diving deeper into Spring Boot, Vue.js, and Google Cloud Platform (GCP).
+🌱 I love learning new technologies and solving challenging problems through clean and efficient code.
 
 ---
 
 ## 🛠 核心技能
 
-### **程式語言**
+### **Programming Languages**
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
@@ -24,7 +22,7 @@
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
 
-### **框架與工具**
+### **Frameworks & Tools**
 
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=6aa6f8)
 ![JDBC](https://img.shields.io/badge/Database-JDBC-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
@@ -32,16 +30,16 @@
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-### **資料庫與快取**
+### **Databases & Caching**
 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![Redis](https://img.shields.io/badge/Cache-Redis-informational?style=flat&logo=redis&logoColor=white&color=6aa6f8)
 
 ---
 
-## ⭐ 工作亮點
--	幻嵐數位 運營方：專注於平台穩定性維護與功能優化，成功推動多項業務升級。
--	平台用戶數曾長期穩居國內前 5。
+## ⭐ Career Highlights
+-	Huanlan Digital Operations：Focused on system stability and feature optimization, successfully led multiple platform upgrades.
+-	Helped maintain a user base ranked in the Top 5 nationwide for an extended period.
 
 ---
 
@@ -51,4 +49,4 @@
 
 ---
 
-✨ **“乾淨的代碼是最佳的藝術。”**  
+✨ **“Clean code is the best form of art.”**  
