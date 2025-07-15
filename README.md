@@ -1,4 +1,4 @@
-# 👨‍💻 資深軟體工程師 | Senior Software Engineer
+# 👨‍💻 軟體工程師 | Software Engineer
 [![Gmail Badge](https://img.shields.io/badge/-juinwei7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juinwei7@gmail.com)](mailto:juinwei7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juinwei7)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/juinwei7)
